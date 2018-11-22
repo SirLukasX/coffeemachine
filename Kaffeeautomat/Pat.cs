@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Kaffeeautomat
 {
-    class Class1
+    class Pat
     {
     }
 }
