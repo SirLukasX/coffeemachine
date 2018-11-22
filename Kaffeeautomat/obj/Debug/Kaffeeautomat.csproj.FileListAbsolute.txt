@@ -1,0 +1,43 @@
+E:\Teaching HAK2018\$ APR 2DK\20180130_MA\Kaffeeautomat\Kaffeeautomat\bin\Debug\Kaffeeautomat.exe
+E:\Teaching HAK2018\$ APR 2DK\20180130_MA\Kaffeeautomat\Kaffeeautomat\bin\Debug\Kaffeeautomat.pdb
+E:\Teaching HAK2018\$ APR 2DK\20180130_MA\Kaffeeautomat\Kaffeeautomat\obj\Debug\Kaffeeautomat.csprojResolveAssemblyReference.cache
+E:\Teaching HAK2018\$ APR 2DK\20180130_MA\Kaffeeautomat\Kaffeeautomat\obj\Debug\Kaffeeautomat.Form1.resources
+E:\Teaching HAK2018\$ APR 2DK\20180130_MA\Kaffeeautomat\Kaffeeautomat\obj\Debug\Kaffeeautomat.Properties.Resources.resources
+E:\Teaching HAK2018\$ APR 2DK\20180130_MA\Kaffeeautomat\Kaffeeautomat\obj\Debug\Kaffeeautomat.csproj.GenerateResource.Cache
+E:\Teaching HAK2018\$ APR 2DK\20180130_MA\Kaffeeautomat\Kaffeeautomat\obj\Debug\Kaffeeautomat.exe
+E:\Teaching HAK2018\$ APR 2DK\20180130_MA\Kaffeeautomat\Kaffeeautomat\obj\Debug\Kaffeeautomat.pdb
+E:\Teaching HAK2018\$ APR 2DK\20180130_MA\Kaffeeautomat - raw\Kaffeeautomat\bin\Debug\Kaffeeautomat.exe
+E:\Teaching HAK2018\$ APR 2DK\20180130_MA\Kaffeeautomat - raw\Kaffeeautomat\bin\Debug\Kaffeeautomat.pdb
+E:\Teaching HAK2018\$ APR 2DK\20180130_MA\Kaffeeautomat - raw\Kaffeeautomat\obj\Debug\Kaffeeautomat.csprojResolveAssemblyReference.cache
+E:\Teaching HAK2018\$ APR 2DK\20180130_MA\Kaffeeautomat - raw\Kaffeeautomat\obj\Debug\Kaffeeautomat.Form1.resources
+E:\Teaching HAK2018\$ APR 2DK\20180130_MA\Kaffeeautomat - raw\Kaffeeautomat\obj\Debug\Kaffeeautomat.Properties.Resources.resources
+E:\Teaching HAK2018\$ APR 2DK\20180130_MA\Kaffeeautomat - raw\Kaffeeautomat\obj\Debug\Kaffeeautomat.csproj.GenerateResource.Cache
+E:\Teaching HAK2018\$ APR 2DK\20180130_MA\Kaffeeautomat - raw\Kaffeeautomat\obj\Debug\Kaffeeautomat.exe
+E:\Teaching HAK2018\$ APR 2DK\20180130_MA\Kaffeeautomat - raw\Kaffeeautomat\obj\Debug\Kaffeeautomat.pdb
+D:\Daten\Schule\APR\2. Klasse\KaffeeAutomat\Kaffeeautomat\Kaffeeautomat\bin\Debug\Kaffeeautomat.exe
+D:\Daten\Schule\APR\2. Klasse\KaffeeAutomat\Kaffeeautomat\Kaffeeautomat\bin\Debug\Kaffeeautomat.pdb
+D:\Daten\Schule\APR\2. Klasse\KaffeeAutomat\Kaffeeautomat\Kaffeeautomat\obj\Debug\Kaffeeautomat.csprojAssemblyReference.cache
+D:\Daten\Schule\APR\2. Klasse\KaffeeAutomat\Kaffeeautomat\Kaffeeautomat\obj\Debug\CoffeeMaker.Form1.resources
+D:\Daten\Schule\APR\2. Klasse\KaffeeAutomat\Kaffeeautomat\Kaffeeautomat\obj\Debug\Kaffeeautomat.Properties.Resources.resources
+D:\Daten\Schule\APR\2. Klasse\KaffeeAutomat\Kaffeeautomat\Kaffeeautomat\obj\Debug\Kaffeeautomat.csproj.GenerateResource.cache
+D:\Daten\Schule\APR\2. Klasse\KaffeeAutomat\Kaffeeautomat\Kaffeeautomat\obj\Debug\Kaffeeautomat.csproj.CoreCompileInputs.cache
+D:\Daten\Schule\APR\2. Klasse\KaffeeAutomat\Kaffeeautomat\Kaffeeautomat\obj\Debug\Kaffeeautomat.exe
+D:\Daten\Schule\APR\2. Klasse\KaffeeAutomat\Kaffeeautomat\Kaffeeautomat\obj\Debug\Kaffeeautomat.pdb
+D:\Patrick\HAK\APR\Schuluebung\sd\KaffeeAutomat\Kaffeeautomat\Kaffeeautomat\bin\Debug\Kaffeeautomat.exe
+D:\Patrick\HAK\APR\Schuluebung\sd\KaffeeAutomat\Kaffeeautomat\Kaffeeautomat\bin\Debug\Kaffeeautomat.pdb
+D:\Patrick\HAK\APR\Schuluebung\sd\KaffeeAutomat\Kaffeeautomat\Kaffeeautomat\obj\Debug\Kaffeeautomat.csprojResolveAssemblyReference.cache
+D:\Patrick\HAK\APR\Schuluebung\sd\KaffeeAutomat\Kaffeeautomat\Kaffeeautomat\obj\Debug\CoffeeMaker.Form1.resources
+D:\Patrick\HAK\APR\Schuluebung\sd\KaffeeAutomat\Kaffeeautomat\Kaffeeautomat\obj\Debug\Kaffeeautomat.Properties.Resources.resources
+D:\Patrick\HAK\APR\Schuluebung\sd\KaffeeAutomat\Kaffeeautomat\Kaffeeautomat\obj\Debug\Kaffeeautomat.csproj.GenerateResource.Cache
+D:\Patrick\HAK\APR\Schuluebung\sd\KaffeeAutomat\Kaffeeautomat\Kaffeeautomat\obj\Debug\Kaffeeautomat.csproj.CoreCompileInputs.cache
+D:\Patrick\HAK\APR\Schuluebung\sd\KaffeeAutomat\Kaffeeautomat\Kaffeeautomat\obj\Debug\Kaffeeautomat.exe
+D:\Patrick\HAK\APR\Schuluebung\sd\KaffeeAutomat\Kaffeeautomat\Kaffeeautomat\obj\Debug\Kaffeeautomat.pdb
+D:\Daten\Schule\APR\2. Klasse\Kaffeeautomat\Kaffeeautomat\bin\Debug\Kaffeeautomat.exe
+D:\Daten\Schule\APR\2. Klasse\Kaffeeautomat\Kaffeeautomat\bin\Debug\Kaffeeautomat.pdb
+D:\Daten\Schule\APR\2. Klasse\Kaffeeautomat\Kaffeeautomat\obj\Debug\Kaffeeautomat.csprojAssemblyReference.cache
+D:\Daten\Schule\APR\2. Klasse\Kaffeeautomat\Kaffeeautomat\obj\Debug\CoffeeMaker.Form1.resources
+D:\Daten\Schule\APR\2. Klasse\Kaffeeautomat\Kaffeeautomat\obj\Debug\Kaffeeautomat.Properties.Resources.resources
+D:\Daten\Schule\APR\2. Klasse\Kaffeeautomat\Kaffeeautomat\obj\Debug\Kaffeeautomat.csproj.GenerateResource.cache
+D:\Daten\Schule\APR\2. Klasse\Kaffeeautomat\Kaffeeautomat\obj\Debug\Kaffeeautomat.csproj.CoreCompileInputs.cache
+D:\Daten\Schule\APR\2. Klasse\Kaffeeautomat\Kaffeeautomat\obj\Debug\Kaffeeautomat.exe
+D:\Daten\Schule\APR\2. Klasse\Kaffeeautomat\Kaffeeautomat\obj\Debug\Kaffeeautomat.pdb
