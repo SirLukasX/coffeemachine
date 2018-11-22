@@ -14,7 +14,7 @@ namespace CoffeeMaker
         private CoffeeMaker m_coffeeMaker;
         private RadioButton sentRadioButton;
         public ProgressBar[] m_progressBarArrays = new ProgressBar[5];
-        //hi
+        //hi you gay
         public Form1()
         {
             InitializeComponent();
