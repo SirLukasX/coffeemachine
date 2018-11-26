@@ -7,31 +7,31 @@ namespace Kaffeeautomat
 {
     public class Drink
     {
-        public int Coffee
+        public virtual int Coffee
         {
             get;
             set;
         }
 
-        public int Water
+        public virtual int Water
         {
             get;
             set;
         }
 
-        public int MilkPowder
+        public virtual int MilkPowder
         {
             get;
             set;
         }
 
-        public int Sugar
+        public virtual int Sugar
         {
             get;
             set;
         }
 
-        public int Choco
+        public virtual int Choco
         {
             get;
             set;
