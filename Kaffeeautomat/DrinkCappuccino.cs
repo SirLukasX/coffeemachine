@@ -5,13 +5,13 @@ using System.Text;
 
 namespace CoffeeMaker
 {
-    class DrinkMelange : Drink
+    class DrinkCappuccino : Drink
     {
-        public DrinkMelange()
+        public DrinkCappuccino()
         {
             CoffeePowder = 8;
             Water = 100;
-            MilkPowder = 5;
+            MilkPowder = 10;
             Sugar = 5;
         }
     }
