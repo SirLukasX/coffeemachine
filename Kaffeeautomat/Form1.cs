@@ -15,17 +15,10 @@ namespace CoffeeMaker
         private RadioButton sentRadioButton;
         public ProgressBar[] m_progressBarArrays = new ProgressBar[5];
 
-        string luke = "luke is gay";
-
         public Form1()
         {
             InitializeComponent();
             m_coffeeMaker = new CoffeeMaker();
-            
-            if(luke == "pat is gaaay")
-            {
-                luke = "pat is very gaaaay";
-            }
         }
 
         private void Form1_Load(object sender, EventArgs e)
