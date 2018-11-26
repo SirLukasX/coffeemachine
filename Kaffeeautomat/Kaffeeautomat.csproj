@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="Drink.cs" />
     <Compile Include="Coffeemaker.cs" />
+    <Compile Include="DrinkMelange.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>

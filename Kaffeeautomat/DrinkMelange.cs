@@ -5,13 +5,12 @@ using System.Text;
 
 namespace Kaffeeautomat
 {
-    public class Drink
+    class DrinkMelange : Drink
     {
-
         /// <summary>
         /// Amount of coffeePowder in mg
         /// </summary>
-        public virtual int CoffeePowder
+        public override int CoffeePowder
         {
             get;
             set;
@@ -20,7 +19,7 @@ namespace Kaffeeautomat
         /// <summary>
         /// Amount of water in ml
         /// </summary>
-        public virtual int Water
+        public override int Water
         {
             get;
             set;
@@ -29,7 +28,7 @@ namespace Kaffeeautomat
         /// <summary>
         /// Amount of milkPowder in mg
         /// </summary>
-        public virtual int MilkPowder
+        public override int MilkPowder
         {
             get;
             set;
@@ -38,19 +37,10 @@ namespace Kaffeeautomat
         /// <summary>
         /// Amount of sugar in mg
         /// </summary>
-        public virtual int Sugar
+        public override int Sugar
         {
             get;
             set;
         }
-
-        /// <summary>
-        /// Amount of choco in mg
-        /// </summary>
-        public virtual int Choco
-        {
-            get;
-            set;
-        }
-    }    
+    }
 }
